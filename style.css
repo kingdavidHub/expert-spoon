@@ -1,0 +1,41 @@
+.hero-section {
+  background-image: url("./image/5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#featured-3 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.tesiomonial-bio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./image/wood.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 3rem 0;
+}
+
+.tesiomonial-bio div:last-child {
+  line-height: 0.5;
+}
+
+.feautre {
+  padding: 3rem 0;
+}
+
+.feautre img {
+  width: 100%;
+  height: auto;
+}
